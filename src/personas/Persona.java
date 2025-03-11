@@ -8,6 +8,7 @@ import java.util.regex.Pattern;
  */
 public class Persona {
 
+    // El DNI es el documento nacional de identidad
     private String dni;
     private String nombre;
     private String apellidos;
